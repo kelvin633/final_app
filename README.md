@@ -23,5 +23,10 @@ Rape: Numeric rape arrests (per 100,000)
 
 ![Screen Shot 2022-12-05 at 6 17 43 PM](https://user-images.githubusercontent.com/31453441/205764077-e6139d22-3fb3-43e7-8518-8dd43eb7fe59.png)
 
+![Screen Shot 2022-12-05 at 6 26 54 PM](https://user-images.githubusercontent.com/31453441/205766075-c03b2f9b-07f8-486d-a1fc-d29fcac3b38e.png)
+
+![Screen Shot 2022-12-05 at 6 27 05 PM](https://user-images.githubusercontent.com/31453441/205766106-ccf6b002-6623-4420-83c7-ff05326a0ae6.png)
+
+
 # Data Source
 The data used for this project can be found at : https://www.kaggle.com/datasets/halimedogan/usarrests
