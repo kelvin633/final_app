@@ -23,6 +23,4 @@ Rape: Numeric rape arrests (per 100,000)
  
  # Snip of the Application
  
-![Screen Shot 2022-12-02 at 5 10 44 PM](https://user-images.githubusercontent.com/31453441/205725823-b5ddd1f8-ecd3-412e-9a16-b892d6e6d0da.png)
-
-
+![Screen Shot 2022-12-05 at 2 27 49 PM](https://user-images.githubusercontent.com/31453441/205725894-b4ffe188-a413-45b9-b9cb-aece1c4a77fb.png)
