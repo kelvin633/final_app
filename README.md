@@ -4,12 +4,8 @@ This data set contains statistics, in arrests per 100,000 residents for assault,
 # Violent Crime Rates in the United States Data Explorer
 The purpose of this app is to explore the data along with their variables and add some visualizations
 
-# Data Source
-The data used for this project can be found at : https://www.kaggle.com/datasets/halimedogan/usarrests
-
 # Variables Information
 A data frame with 51 observations on 4 variables
-
 
 State: State where the crime occurred
 
@@ -26,3 +22,6 @@ Rape: Numeric rape arrests (per 100,000)
 ![Screen Shot 2022-12-05 at 2 27 49 PM](https://user-images.githubusercontent.com/31453441/205725894-b4ffe188-a413-45b9-b9cb-aece1c4a77fb.png)
 
 ![Screen Shot 2022-12-05 at 6 17 43 PM](https://user-images.githubusercontent.com/31453441/205764077-e6139d22-3fb3-43e7-8518-8dd43eb7fe59.png)
+
+# Data Source
+The data used for this project can be found at : https://www.kaggle.com/datasets/halimedogan/usarrests
