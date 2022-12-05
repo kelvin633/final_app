@@ -2,7 +2,7 @@
 This data set contains statistics, in arrests per 100,000 residents for assault, murder, and rape in each of the 50 US states in 1973. Also given is the percent of the population living in urban areas.
 
 # Violent Crime Rates in the United States Data Explorer
-The purpose of this app is to explore the data along with their variables and add some visualizations
+The purpose of this application is to explore our dataset and customize some plots based on the information provided 
 
 # Variables Information
 A data frame with 51 observations on 4 variables
