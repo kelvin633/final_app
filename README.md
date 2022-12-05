@@ -6,8 +6,14 @@ The data used for this project can be found at : https://www.kaggle.com/datasets
 
 # Variables Information
 A data frame with 51 observations on 4 variables
+
+
 State: State where the crime occurred
+
 Murder: Numeric murder arrests (per 100,000)
+
 Assault: Numeric assault arrests (per 100,000)
+
 UrbanPop(Urban Population): Numeric percent urban population
+
 Rape: Numeric rape arrests (per 100,000)
