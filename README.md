@@ -21,3 +21,7 @@ UrbanPop(Urban Population): Numeric percent urban population
 
 Rape: Numeric rape arrests (per 100,000)
  
+ # Snip of the Application
+ 
+
+![Screen Shot 2022-12-02 at 4 47 47 PM](https://user-images.githubusercontent.com/31453441/205725666-cfca6b03-e652-4217-bd31-e4673984cf04.png)
